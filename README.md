@@ -1,2 +1,2 @@
 # reddit-graph
-Jupyter notebook + Code for reproducing Reddit Subreddit graphs
+Jupyter notebook + Code for reproducing Reddit Subreddit graphs. This repository is the complement to my blog post [How to Create a Network Graph Visualization of Reddit Subreddits](http://minimaxir.com/2016/05/reddit-graph/).
